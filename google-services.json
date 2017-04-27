@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "16042773345",
+    "firebase_url": "https://aarti-8d59a.firebaseio.com",
+    "project_id": "aarti-8d59a",
+    "storage_bucket": "aarti-8d59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16042773345:android:7f4668609777026e",
+        "android_client_info": {
+          "package_name": "com.aarti.hmp.app.aarti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16042773345-rkhbh7kc4migmuoj388ddvaps7m7i1i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEeu3mfzuHpfHFOOG8ZN5OzN7ciibe_6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
